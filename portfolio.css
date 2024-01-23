@@ -1,0 +1,308 @@
+.first
+{
+    height: 500px;
+    background-color: black;
+    border-bottom-right-radius: 150px;
+}
+/* .img
+{
+    height: 850px;
+} */
+/* .navc
+{
+    height: 100px;
+    width: 500px;
+    background-color: rgb(119, 35, 35);
+    border-radius: 20px;
+    padding-top: 100px;
+} */
+.about
+{
+    color: white;
+    padding-top: 120px;
+    padding-left: 370px;
+}
+.pp
+{
+    padding-top: 20px;
+    padding-left: 370px;
+    color: rgba(255, 255, 255, 0.868);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 17px;
+}
+.pp1
+{
+    padding-left: 370px;
+    color: rgba(255, 255, 255, 0.868);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 17px;
+}
+.second
+{
+    height: 1250px;
+}
+.service
+{
+    color: rgb(0, 0, 0);
+    padding-top: 70px;
+    text-align: center; 
+    font-weight: 700;
+    font-size: 30px;
+    /* text-decoration: underline; */
+    letter-spacing: 10px;
+}
+.designer-img
+{
+    border-radius: 20px;
+    padding-top: 100px;
+    padding-left: 260px;
+    height: 350px;
+    width: 515px;
+}
+.designer-img2
+{
+    border-radius: 20px;
+    padding-top: 110px;
+    padding-left: 70px;
+    height: 340px;
+    width: 370px;  
+}
+.designer-img3
+{
+    padding-top: 110px;
+    padding-left: 250px;
+    height: 340px;
+    width: 570px;
+}
+.gr
+{
+    padding-top: 120px;
+    font-weight: 600;
+    /* padding-left: 10px; */
+    font-size: 30px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.gr1
+{
+    padding-top: 130px;
+    font-weight: 600;
+    /* padding-left: 250px; */
+    font-size: 30px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.pp2
+{
+    padding-right: 200px;
+    /* padding-left: 10px; */
+    padding-top: 8px;
+    padding-right: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: justify;
+    text-justify: inter-word;
+}
+.pp3
+{
+    padding-top: 8px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: justify;
+    text-justify: inter-word;
+}
+.image
+{
+    width: 100%;
+    height: 850px;
+    background-position: center;
+    background-size: cover;
+    background-image: url(portfolio\ image\ final.jpg);
+}
+.btn1
+{
+    font-size: 12px;
+    letter-spacing: 3px;
+    border-radius: 20px;
+    width: 180px;
+    height: 40px;
+    color: rgb(255, 255, 255);
+    background-color: black;
+    box-shadow: 4px 4px 10px rgb(74, 74, 74);
+}
+.arrow 
+{
+    border: solid white;
+    border-width: 0 3px 3px 0;
+    display: inline-block;
+    padding: 3px;
+}
+.right
+{
+    transform: rotate(-45deg);
+    -webkit-transform: rotate(-45deg);
+}
+.third
+{
+    background-color: black;
+    height: 100vh;
+    /* border-top-left-radius: 150px; */
+    margin-top: 50px;
+}
+.works
+{
+   color: white; 
+   text-align: center;
+   padding-top: 60px;
+   /* text-decoration: underline; */
+   font-weight: 600;
+   font-size: 30px;
+   letter-spacing: 10px;
+}
+.fourth
+{
+    /* width: 100%; */
+    /* background-position: center; */
+    /* background-size: cover; */
+    /* background-image: url(Mercedes\ Benz\ Mercedes\ AMG\ GT\ Car\ Mercedes\ SL\ AMG.jpg); */
+    height: 150px;
+    /* background-blend-mode:hard-light; */
+    /* border-radius: 50px; */
+}
+/* .qqq
+{
+    height: 30px;
+} */
+.quote
+{
+    text-align: center;
+    padding-top: 60px;
+    color:black;
+    letter-spacing: 15px;
+}
+.fifth
+{
+    height: 100vh;
+    background-color: black;
+}
+.branding
+{
+    color: white;
+    /* padding-left: 20px; */
+    font-size: 150px;
+    /* letter-spacing: 8px; */
+    padding-bottom: 50px;
+}
+.tag
+{
+    height: 650px;
+    width: 1200px;
+    position: absolute;
+    top: 3610px;
+    /* left: 50px; */
+}
+.brandspcl
+{
+    color: white;
+    font-size: 15px;
+    padding-left: 70px;
+    letter-spacing: 6px;
+    padding-top: 160px;
+}
+.sixth
+{
+    height: 800px;
+}
+.UI
+{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 700;
+    padding-top: 40px;
+    color: black;
+    letter-spacing: 5px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.ppp
+{
+    color: black;
+}
+.carimg1
+{
+    height: 700px;
+    width: 850px;
+    margin-left: 320px;
+}
+.carimg11
+{
+    margin-left: 275px;
+    height: 700px;
+    width: 950px;
+}
+.seventh
+{
+    background-color: black;
+    color: white;
+    height: 470px;
+}
+.namee
+{
+    width: 600px;
+    height: 40px;
+    margin-top: 80px;
+    background-color: rgba(75, 75, 75, 0.504);
+    border: none;
+    color: rgba(255, 255, 255, 0.558);
+    font-size: 14px;
+    padding-left: 20px;
+    border-radius: 10px;
+}
+.namee1
+{
+    width: 600px;
+    height: 40px;
+    margin-top: 20px;
+    background-color: rgba(75, 75, 75, 0.504);
+    border: none;
+    color: rgba(255, 255, 255, 0.558);
+    font-size: 14px;
+    padding-left: 20px;
+    border-radius: 10px;
+}
+.namee2
+{
+    width: 600px;
+    height: 150px;
+    margin-top: 20px;
+    background-color: rgba(75, 75, 75, 0.504);
+    border: none;
+    color: rgba(255, 255, 255, 0.477);
+    font-size: 14px;
+    padding-left: 20px;
+    border-radius: 10px;
+    padding-bottom: 110px;
+}
+.namee3
+{
+    margin-top: 20px;
+    margin-left: 150px;
+    width: 300px;
+    border-radius: 10px;
+    height: 40px;
+    font-weight: 650;
+    border: none;
+}
+.final
+{
+    padding-top: 120px;
+    padding-left: 160px;
+    font-size: 50px;
+    font-weight: 700;
+}
+.last
+{
+    background-color: rgb(255, 255, 255);
+    height: 30px;
+}
+.rights
+{
+    font-size: 14px;
+    text-align: center;
+    padding-top: 5px;
+}
